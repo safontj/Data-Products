@@ -1,38 +1,43 @@
 ---
-title: "Index"
+title: "Power Attack instructions"
 author: "Jordi Safont"
 
 ---
 
-Concept
+### Concept
 ========================================================
 
 The Power Attack Calculator is a convenient tool for role game players.The calculator will help the player choose the best use of the power attack feat when fighting a foe. 
 
-Fighting mechanics
+### Fighting mechanics
 ========================================================
 
-A fight is resolved in rounds. Each combat round a character tries to land a blow. If successful it deals damage, if not the enemy has dodged the attack. Luck plays a part as a rool of a 20 sided dice also determines the result of the attack.
+A fight is resolved in rounds. Each combat round a character tries to land a blow. If successful it deals damage, if not the enemy has dodged the attack. Luck plays a part as a roll of a 20 sided dice also determines the result of the attack.
 
-The main player characteristics considered are:
+The **main character attributes** considered are:
 
 - Ability to hit (THACO)
 - Armor class (AC)
 - Weapong damage (DMG)
 - Life points (HP)
 
-- Dice roll + THACO - AC >= 0 Hit!!
+The **outcome of an attack** is calculated this way:
+
+- Dice roll + THACO - AC >= 0 is a hit
 - Natural 1 in the dice roll is an automatic miss
 - Natural 20 in the dice roll is an automatic hit
 
-Player characters have the ability to trade accuracy for power, transfering points between weapon damage and ability to hit. This is called power attack.
+In addition, player characters (heroes) have the ability to trade accuracy for power, transfering points between weapon damage and ability to hit. This is called power attack.
 
-Fighting feats like this are costly to acquire, so it is wise to make the best of them. The whole purpose of using power attack is maximizing average damage dealt per round, as a character is defeated when his HPs (life) get to zero or lower
+Fighting feats like this are costly to acquire, so it is wise to make the best of them. The whole purpose of using power attack is maximizing average damage dealt per round, as a character is defeated when his HPs (life) get to zero or lower.
 
-Tool features
+### How to use the tool
 ========================================================
 
-By providing the basic player and foe characters statistics, the tool helps selecting the best power attack configuration for the fight.
+- Provide the basic player and foe characters statistics
+- Select the power attack value.
+
+The tool adjusts for the configuration, and helps selecting the best power attack value for the fight.
 
 It also provides information on the damage dealt depending on the result of the dice roll, the expected average damage dealt per round, outcome and number of rounds to end the combat.
 
